@@ -39,11 +39,11 @@ source ~/.bashrc  # or source ~/.zshrc
 ## Usage
 To initialize a new C project, run:
 ```bash
-c init <project_name>
+c <project_name>
 ```
 Example:
 ```bash
-c init my_project
+c my_project
 ```
 This will create a directory `my_project/` with the required project files.
 
